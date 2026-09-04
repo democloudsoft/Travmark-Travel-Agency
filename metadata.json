@@ -1,0 +1,6 @@
+{
+  "name": "Travmark Travel Agency",
+  "description": "Professional travel agency website for Travmark Travel Agency in Karachi, offering domestic and international flights, hotel reservations, tour packages, and Umrah travel assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
